@@ -1,2 +1,2 @@
 # port-skan
-Sade bir Port Scanner
+`Istidadesi=>` ###python2 port.py <url>###
