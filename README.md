@@ -1,2 +1,2 @@
 # port-skan
-`Istidadesi=>` ###python2 port.py <url>###
+`Istidadesi=>` **python2 port.py <url>**
